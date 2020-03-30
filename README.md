@@ -27,7 +27,9 @@ To calculate the moving average, subset of 10 data points where taken at a time 
 Built in function AVERAGE (range) was used to calculate the moving average
 
 **LIne Chart :**
+
 ![image](Graph.png)
+
 **Observations :**
 + Global average temperature is much lower compared to average temperature in Ranchi and Ludhiana.
 +	In chart we can see that there was sudden decrease in temperature during 1855-1862, there is also noticeable decrease in temperature i.e., 22° C during 1925-1930, but temperature of Ranchi has been consistent in past few decades i.e., approx. 24° C.
